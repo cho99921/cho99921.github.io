@@ -4,3 +4,18 @@ body {
 h1{	
 font-family: 'Noto Sans TC', sans-serif;
 }
+.bg-primary {
+background-color: #0700d6 !important;
+background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+}.text-primary {
+  color: #5d0082!important;
+}
+
+a {
+  color: #5d0082;
+}
+
+a:hover, a:focus, a:active {
+  color: #824027;

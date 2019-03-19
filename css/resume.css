@@ -176,7 +176,10 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+background-color: #5d0082;
+background-image: url("https://www.transparenttextures.com/patterns/binding-light.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
 }
 
 .text-primary {
@@ -184,9 +187,9 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #BD5D38;
+  color: #5d0082;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #5d0082;
 }
