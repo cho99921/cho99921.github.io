@@ -4,6 +4,9 @@ body {
 h1{	
 font-family: 'Noto Sans TC', sans-serif;
 }
+h2{	
+font-family: 'Noto Sans TC', sans-serif;
+}
 .bg-primary {
 background-color: #0700d6 !important;
 background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
